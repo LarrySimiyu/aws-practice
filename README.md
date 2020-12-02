@@ -1,2 +1,3 @@
 # aws-practice
-Amazon Web Services Practice Application
+
+AWS practice application created with React
